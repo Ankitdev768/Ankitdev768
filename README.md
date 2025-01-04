@@ -2,13 +2,16 @@
 
 ## 👨‍💻 Full-Stack Developer | 📡 Electronics Engineer | 🌍 Tech Enthusiast
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer and an Electronics Engineering student currently in my 3rd semester. I love exploring new technologies and building innovative solutions to real-world problems.
+Welcome to my GitHub profile! I'm a passionate full-stack developer and an Electronics Engineering student currently in my 3rd semester. I enjoy building creative solutions with code and electronics.
+
+Check out my portfolio website: [Ankit Kumar's Portfolio](https://ankitdev768.github.io/ankit-dev/)
 
 ### 🌟 What I Do:
 - 💻 Full-Stack Development 
-- 📡 Electronics Projects 
+- 📡 Electronics Projects (Arduino, IoT, Microcontrollers, etc.)
 - 🤖 Chatbots & AI Integration
 - 🔧 Circuit Designing & Prototyping
+- 🎥 Video Editing & 3D Animation for Business Ads
 
 ### 🔧 Technologies & Tools:
 - **Frontend**: HTML, CSS, JavaScript, React
@@ -16,18 +19,30 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer and an Elect
 - **Database**: Firebase
 - **Tools**: Git, GitHub, VS Code, Firebase, Arduino IDE
 
-### 📚 Current Projects:
-- **[Women Safety Analytics](https://github.com/username/project1)** - An analytics tool for women safety using person detection, gesture recognition, and real-time monitoring.
-- **[The Sensors Bot](https://github.com/username/project2)** - A chatbot to assist in making electronics projects with coding and circuit design support.
+### 🛠️ My GitHub Stats:
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitdev768&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-### 🔗 Links:
-- Website: [MY PORTFOLIO](https://ankitdev768.github.io/ankit-dev/)
-- Instagram: [@editwithankit](https://www.instagram.com/editwithankit/)
-- Email: [Contact Me](ak1522667@gmail.com)
+### 📚 Current Projects:
+- **[Electronics Project Portfolio](https://thesensors.github.io/thesensors/index.html)** - A curated collection of innovative electronics projects.
+- **[Login and SignUp system using Firebase](https://ankitdev768.github.io/Login/)** - Secure authentication system integrated with Firebase.
+
+### 🚀 Badges & Skills:
+![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20Python%20%7C%20C%2B%2B%20%7C%20HTML%2F5%20%7C%20CSS-blue)
+![Technologies](https://img.shields.io/badge/Technologies-Node.js%20%7C%20React%20%7C%20MongoDB%20%7C%20Arduino%20%7C%20Raspberry%20Pi-green)
+![GitHub followers](https://img.shields.io/github/followers/ankitdev768?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/ankitdev768?label=Stars&style=social)
+
+### 📚 Education:
+- 🎓 **Diploma in Electronics Engineering** - 3rd Semester, 2023-2026
 
 ### 📩 Let's Connect:
-Feel free to reach out to me if you want to collaborate on projects, discuss technology, or just chat about electronics!
+- **Website**: [Ankit Kumar's Portfolio](https://ankitdev768.github.io/ankit-dev/)
+- **Instagram**: [@editwithankit](https://www.instagram.com/editwithankit/)
+- **LinkedIn**: [@ankit-kumar-768](https://www.linkedin.com/in/ankit-kumar-768/)
+
+### 📸 Technologies in Action:
+![Tech Stack](https://github.com/ankitdev768/ankit-dev/blob/main/assets/tech-stack.png)
 
 ---
 
-Thanks for visiting my profile! 😊
+Thanks for visiting my profile! Let’s build something amazing together. 😊
