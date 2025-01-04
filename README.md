@@ -27,7 +27,6 @@ Check out my portfolio website: [Ankit Kumar's Portfolio](https://ankitdev768.gi
 
 ### 🚀 Badges & Skills:
 ![Languages](https://img.shields.io/badge/Languages-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20React.js%20%7C%20Python%20%7C%20PHP%20%7C%20C%2B%2B-blue)
-![Technologies](https://img.shields.io/badge/Technologies-Node.js%20%7C%20React%20%7C%20MongoDB%20%7C%20Arduino%20%7C%20Raspberry%20Pi-green)
 ![GitHub followers](https://img.shields.io/github/followers/ankitdev768?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ankitdev768?label=Stars&style=social)
 
