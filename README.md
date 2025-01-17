@@ -31,7 +31,7 @@ Check out my portfolio website: [Ankit Kumar's Portfolio](https://ankitdev768.gi
 ![GitHub stars](https://img.shields.io/github/stars/ankitdev768?label=Stars&style=social)
 
 ### 📚 Education:
-- 🎓 **Diploma in Electronics Engineering** - 3rd Semester, 2023-2026
+- 🎓 **Diploma in Electronics Engineering** - 4th Semester, 2023-2026
 
 ### 📩 Let's Connect:
 - **Website**: [Ankit Kumar's Portfolio](https://ankitdev768.github.io/ankit-dev/)
