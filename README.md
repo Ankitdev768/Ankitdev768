@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Full-Stack Developer | 📡 Electronics Engineer | 🌍 Tech Enthusiast
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer and an Electronics Engineering student currently in my 3rd semester. I enjoy building creative solutions with code and electronics.
+Welcome to my GitHub profile! I'm a passionate full-stack developer and an Electronics Engineering student currently in my 4th semester. I enjoy building creative solutions with code and electronics.
 
 Check out my portfolio website: [Ankit Kumar's Portfolio](https://ankitdev768.github.io/ankit-dev/)
 
