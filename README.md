@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I’m a passionate **Full-Stack Developer** and an
 ## 🛠️ Technologies & Tools:
 | Frontend | Backend | Database | Tools & IDEs | Embedded Systems |
 |----------|---------|----------|--------------|-----------------|
-| HTML, CSS, JavaScript, React, Tailwind CSS | Python, C++, PHP | Firebase, MongoDB | Git, GitHub, VS Code, Android Studio | Arduino, Raspberry Pi, ESP32 |
+| HTML, CSS, JavaScript, React, Tailwind CSS | Python, C++, PHP | Firebase, MongoDB | Git, GitHub, VS Code, Arduino IDE, MATLAB | Arduino, Raspberry Pi, ESP32 |
 
 ---
 
