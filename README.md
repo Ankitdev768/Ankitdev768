@@ -25,8 +25,7 @@ Welcome to my GitHub profile! I’m a passionate **Full-Stack Developer** and an
 ---
 
 ## 🚀 Current Projects:
-- **[Smart Helmet Project](https://thesensors.github.io/thesensors/index.html)**: Helmet detection, alcohol detection, accident alert with GPS & ESP32-CAM image capture.
-- **[Room Finder App](#)**: A single-page React website inspired by Zomato, for finding rental spaces & flats.
+- **[Smart Helmet Project](#)**: Helmet detection, alcohol detection, accident alert with GPS & ESP32-CAM image capture.
 - **[Task Tracker App](#)**: A React-based task management tool with CRUD operations.
 - **[Voice-Controlled Home Automation](#)**: Arduino Nano + HC-05 + Blynk + 4-channel relay system.
 - **[Emotion Tracking System](#)**: Python-based AI tool for tracking and responding to user emotions.
