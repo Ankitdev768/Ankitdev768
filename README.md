@@ -24,7 +24,7 @@ I’m a passionate **Full-Stack Developer** and an **Electronics Engineering stu
 | Frontend             | Backend          | Database         | Tools & IDEs                   | Embedded & IoT                |
 |---------------------|-----------------|-----------------|-------------------------------|------------------------------|
 | HTML, CSS, JS        | Python, C++, PHP| Firebase, MongoDB| Git, GitHub, VS Code, MATLAB   | Arduino, ESP32, Raspberry Pi |
-| React, Tailwind CSS  | Flask, Node.js  | MySQL           | Arduino IDE, Figma, Postman    | IoT Sensors, HC-05, Blynk    |
+| React, Tailwind CSS  | , Node.js  |           | Arduino IDE, Figma, Postman    | IoT Sensors, HC-05, Blynk    |
 
 ---
 
