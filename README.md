@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m a passionate **Full-Stack Developer** and an
 ---
 
 ## 🌟 What I Do:
-- 💻 **Full-Stack Web & App Development**
+- 💻 **Full-Stack Web Development**
 - 📡 **Electronics Projects (Arduino, IoT, Microcontrollers, Sensors Integration)**
 - 🤖 **AI/Chatbot Development**
 - 🔧 **Circuit Design & Prototyping**
