@@ -78,9 +78,5 @@ Welcome to my GitHub profile! I’m a passionate **Full-Stack Developer** and an
 
 ---
 
-## 📸 **Showcase in Action**
-![Tech Stack](https://github.com/ankitdev768/ankit-dev/blob/main/assets/tech-stack.png)  
-
----
 
 Thanks for stopping by! Let's **innovate, create, and build** something amazing together. 🚀
