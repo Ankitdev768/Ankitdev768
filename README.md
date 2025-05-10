@@ -72,9 +72,9 @@ Welcome to my GitHub profile! I’m a passionate **Full-Stack Developer** and an
 
 ## 📩 **Let’s Connect**
 - 🌐 **Website**: [Ankit Kumar's Portfolio](https://ankitdev768.github.io/ankit-dev/)  
-- 📸 **Instagram**: [@editwithankit](https://www.instagram.com/editwithankit/)  
+- 📸 **Instagram**: [@ankitkr.9771](https://www.instagram.com/ankitkr.9771/)  
 - 💼 **LinkedIn**: [@ankit-kumar-768](https://www.linkedin.com/in/ankit-kumar-768/)  
-- 📧 **Email**: [ankit.dev768@gmail.com](mailto:ankit.dev768@gmail.com)
+- 📧 **Email**: [ak1522667@gmail.com](mailto:ak1522667@gmail.com)
 
 ---
 
