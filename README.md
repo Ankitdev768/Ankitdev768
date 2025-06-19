@@ -5,7 +5,7 @@
 Welcome to my GitHub profile!  
 I’m a passionate **Full-Stack Developer** and an **Electronics Engineering student (4th Semester, 2023–2026)** with an unwavering drive to **bridge software & hardware** and create **innovative solutions to real-world problems.**
 
-[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-Visit-blueviolet?style=for-the-badge&logo=github)](https://ankitdev768.github.io/ankit-dev/)  
+[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-Visit-blueviolet?style=for-the-badge&logo=github)](https://ankit-portfolio-01.web.app/)  
 [![Gmail](https://img.shields.io/badge/📩_Email-Me-red?style=for-the-badge&logo=gmail)](mailto:ak1522667@gmail.com)
 
 ---
@@ -115,9 +115,9 @@ I’m a passionate **Full-Stack Developer** and an **Electronics Engineering stu
 
 ## 📬 **Let’s Connect**
 
-[![Website](https://img.shields.io/badge/🌐_Portfolio-Visit-blueviolet?style=flat&logo=googlechrome)](https://ankitdev768.github.io/ankit-dev/)  
+[![Website](https://img.shields.io/badge/🌐_Portfolio-Visit-blueviolet?style=flat&logo=googlechrome)](https://ankit-portfolio-01.web.app/)  
 [![Instagram](https://img.shields.io/badge/📸_Instagram-@ankitkr.9771-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ankitkr.9771/)  
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-@ankit-kumar-768-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ankit-kumar-768/)  
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-@ankit-kumar-768-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ankit-kumar-569a76368/)  
 [![Email](https://img.shields.io/badge/📩_Email-ak1522667@gmail.com-red?style=flat&logo=gmail)](mailto:ak1522667@gmail.com)
 
 ---
