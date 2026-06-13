@@ -16,7 +16,7 @@ Building innovative software, AI and IoT solutions that bridge hardware and soft
 
 # 🎯 Current Role
 
-💼 **Software Engineer @ Bizneeti Services Pvt. Ltd.**
+💼 **Software Engineer**
 
 ### Currently Working On
 
