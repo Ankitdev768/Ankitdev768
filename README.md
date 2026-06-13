@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ankit Kumar
 
 <h3 align="center">
-Full-Stack Developer • Electronics Innovator • Software Engineer @ Bizneeti Services Pvt. Ltd.
+Full-Stack Developer • Electronics Innovator • Software Engineer 
 </h3>
 
 <p align="center">
