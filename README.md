@@ -140,10 +140,13 @@ Designing and building full-stack web applications and embedded IoT systems, bri
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ankitdev768&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=B388FF&icon_color=8E2DE2&text_color=E0AAFF" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitdev768&theme=tokyonight&hide_border=true&background=0F0C29&stroke=8E2DE2&ring=B388FF&fire=B388FF&currStreakLabel=E0AAFF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ankitdev768&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitdev768&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=B388FF&text_color=E0AAFF" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=Ankitdev768&theme=tokyonight&hide_border=true" width="48%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitdev768&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
