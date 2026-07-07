@@ -80,61 +80,6 @@ Creative and tech-savvy Full-Stack Developer & Embedded Systems enthusiast with 
 
 <br/>
 
-## 🟣 Featured Projects
-
-<details>
-<summary><b>🌾 AI-Powered Crop Disease Detection Platform</b></summary>
-<br/>
-
-Full-stack AgriTech platform enabling farmers to detect crop diseases via AI image analysis, with a multilingual voice assistant supporting English, Hindi, and Bhojpuri.
-
-| Aspect | Detail |
-|---|---|
-| Stack | React, Tailwind CSS, Node.js, MongoDB, AI API Integration |
-| Scale | Regional farmer-facing deployment |
-| Performance | Real-time image analysis with low-latency response |
-| Security | Secure API key handling, data validation on all endpoints |
-| Impact | Enables early crop disease detection for farmers in Bihar |
-| Repository | *Private* |
-
-</details>
-
-<details>
-<summary><b>🏢 Enterprise SaaS Admin Panel</b></summary>
-<br/>
-
-Large-scale enterprise admin dashboard built with a modern React stack, architected for 25+ modular admin panels covering analytics, user management, and operations tooling.
-
-| Aspect | Detail |
-|---|---|
-| Stack | React, Vite, Redux Toolkit, React Query, TanStack Table, Framer Motion, Tailwind CSS |
-| Scale | 25+ enterprise modules |
-| Performance | Optimized rendering with virtualized tables and query caching |
-| Security | Role-based access control architecture |
-| Impact | Foundation for scalable enterprise SaaS product suite |
-| Repository | *Private* |
-
-</details>
-
-<details>
-<summary><b>🎬 Cinematic Content & Voice Production Pipeline</b></summary>
-<br/>
-
-Multilingual scriptwriting and production workflow combining narrative design with technical production specifications for short films and travel content.
-
-| Aspect | Detail |
-|---|---|
-| Stack | Content tooling, AI-assisted scriptwriting workflows |
-| Scale | Multiple full-length screenplay productions |
-| Performance | N/A |
-| Security | N/A |
-| Impact | Cinematic storytelling with production-ready shot specifications |
-| Repository | *Private* |
-
-</details>
-
-<br/>
-
 ## 🟣 Experience
 
 **Full-Stack Developer & IoT Solutions Builder** — Independent / Freelance
