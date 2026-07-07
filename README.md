@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:6A11CB&height=220&section=header&text=Ankit%20Kumar&fontSize=55&fontColor=E0AAFF&animation=fadeIn&fontAlignY=35&desc=Creative%20Full-Stack%20Developer%20%26%20IoT%20Specialist&descAlignY=55&descSize=18" width="100%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Ankit%20Kumar&fontColor=E0AAFF&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Creative%20Full-Stack%20Developer%20and%20IoT%20Specialist&descAlignY=55&descSize=18"
+width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=B388FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+IoT+Specialist;Building+AI+%2B+Embedded+Systems+Solutions;Electronics+Engineer+%7C+Product+Builder;Dreaming+of+Building+a+Unicorn+Startup" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Backend+Engineer;AI+%7C+IoT+Developer;Building+Products+That+Solve+Real+Problems" />
 </a>
 
 <br/>
