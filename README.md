@@ -99,15 +99,9 @@ Designing and building full-stack web applications and embedded IoT systems, bri
 ## 🟣 Achievements
 
 <div align="center">
-
-| Recognition | Details |
-|---|---|
-| Diploma in Electronics Engineering | Pursuing 2023 – 2026, Bihar |
-| Independent Product Builder | Multiple full-stack & IoT projects delivered |
-| Multilingual AI Integration | Built voice assistant supporting 3 languages |
+RecognitionDetails🏆 1st Prize – National Science Day Model PresentationISRO x BIT Patna — Awarded first prize for innovative model presentation🏆 Finalist – Smart India Hackathon 2024Internal Round — Selected as finalist in the prestigious SIH internal round🏆 Finalist – TECHNEX'25 HackathonIIT BHU — Reached finals at one of India's largest technical festivals🏆 Finalist – IIT Guwahati HackathonIIT Guwahati — Reached finals showcasing innovative solutions🚀 Startup RecognitionStartup Bihar — Officially recognized for innovation and entrepreneurial excellence
 
 </div>
-
 <br/>
 
 ## 🟣 Certifications
