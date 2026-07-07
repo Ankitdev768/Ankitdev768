@@ -1,245 +1,287 @@
-# Hi 👋, I'm Ankit Kumar
+<div align="center">
 
-<h3 align="center">
-Full-Stack Developer • Electronics Innovator • Software Engineer 
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:6A11CB&height=220&section=header&text=Ankit%20Kumar&fontSize=55&fontColor=E0AAFF&animation=fadeIn&fontAlignY=35&desc=Creative%20Full-Stack%20Developer%20%26%20IoT%20Specialist&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-Building innovative software, AI and IoT solutions that bridge hardware and software.
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Software+Engineer+at+Bizneeti+Services;Electronics+Engineering+Student;AI+%7C+IoT+%7C+Embedded+Systems;Building+Products+for+Real+World+Problems" />
-</p>
-
----
-
-# 🎯 Current Role
-
-💼 **Software Engineer**
-
-### Currently Working On
-
-- 🌐 Full-Stack Development
-- ⚡ Backend Systems
-- 🤖 AI Applications
-- 📡 IoT Solutions
-- 🎨 UI/UX Design
-
----
-
-# 💫 About Me
-
-- 🎓 Diploma in Electronics Engineering (2023–2026)
-- 🚀 Passionate about AI, IoT and Software Development
-- 🌱 Learning Advanced Backend Architecture
-- ⚡ Building Products that Solve Real Problems
-- 🎯 Dreaming of Building a Unicorn Startup
-
----
-
-# 🛠 Tech Stack
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
-## Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-
-## Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-
----
-
-# 🚀 Featured Projects
-
-### 🛡 Smart Helmet System
-An innovative helmet with accident detection, alcohol detection, GPS tracking, and emergency alerts.
-
-### 🌱 SoilDnaX
-AI-powered precision agriculture platform for farmers.
-
-### 🤖 Jarvis AI Assistant
-Voice-controlled personal assistant built with Python.
-
-### 🏠 Smart Home Automation
-IoT-based home automation system using Arduino and ESP32.
-
-### 😊 Emotion Tracking System
-AI-powered emotion detection and response system.
-
----
-
-# 🏆 Achievements
-
-🥇 National Science Day Model Presentation Winner (BIT Patna + ISRO)
-
-🏅 Smart India Hackathon Internal Finalist
-
-🎉 IIT BHU TECHNEX'25 Participant
-
-📜 IEEE Nano Day Workshop – IIT Patna
-
-⚙ PLC Programming Internship – TRTC
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankitdev768&show_icons=true&theme=tokyonight&count_private=true"/>
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitdev768&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitdev768&theme=tokyonight"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitdev768&theme=tokyo-night"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ankitdev768&theme=tokyonight&row=2&column=4"/>
-</p>
-
----
-
-# 👁 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ankitdev768&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/ankitdev768/ankitdev768/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 🏅 Holopin Badges
-
-[![@ankitdev768's Holopin board](https://holopin.me/ankitdev768)](https://holopin.io/@ankitdev768)
-
----
-
-# 📅 WakaTime Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ankitdev768&theme=tokyonight"/>
-</p>
-
----
-
-# 🎵 Spotify Now Playing
-
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
-</p>
-
----
-
-# 📰 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-# 🌍 Visitors Globe
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=ankitdev768&icon=5&color=12"/>
-</p>
-
----
-
-# 🧠 Quote Of The Day
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-# 📌 Featured Repositories
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitdev768&repo=SoilDnaX&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitdev768&repo=Smart-Helmet&theme=tokyonight"/>
-</p>
-
----
-
-# ☕ Support Me
-
-<a href="https://buymeacoffee.com/yourusername">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=B388FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+IoT+Specialist;Building+AI+%2B+Embedded+Systems+Solutions;Electronics+Engineer+%7C+Product+Builder;Dreaming+of+Building+a+Unicorn+Startup" alt="Typing SVG" />
 </a>
 
----
+<br/>
 
-# 🌐 Connect With Me
+<img src="https://img.shields.io/badge/Diploma-Electronics%20Engineering-6A11CB?style=flat-square&labelColor=0F0C29"/>
+<img src="https://img.shields.io/badge/2023--2026-Batch-8E2DE2?style=flat-square&labelColor=0F0C29"/>
+<img src="https://img.shields.io/badge/Location-Patna%2C%20Bihar-B388FF?style=flat-square&labelColor=0F0C29"/>
 
-<p align="center">
+<br/><br/>
 
-<a href="https://ankitportfolio.in">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
+<a href="https://ankitportfolio.in/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ankit-kumar-569a76368/"><img src="https://img.shields.io/badge/LinkedIn-6A11CB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ak1522667@gmail.com"><img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Ankitdev768"><img src="https://img.shields.io/badge/GitHub-2E1A47?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<a href="mailto:ak1522667@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+<br/><br/>
 
-<a href="https://linkedin.com/in/ankit-kumar-569a76368">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Ankitdev768&style=flat-square&color=8E2DE2&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/Ankitdev768?style=flat-square&color=6A11CB&labelColor=0F0C29&label=Followers"/>
+<img src="https://img.shields.io/github/stars/Ankitdev768?style=flat-square&color=B388FF&labelColor=0F0C29&label=Stars"/>
 
-<a href="https://instagram.com/ankitkr.9771">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
+</div>
 
-</p>
+<br/>
 
----
+## 🟣 About Me
 
-# ⚡ Fun Facts
+```
+🎓 Diploma in Electronics Engineering (2023 – 2026)
+🚀 Passionate about AI, IoT and Software Development
+🌱 Learning Advanced Backend Architecture
+⚡ Building Products that Solve Real Problems
+🎯 Dreaming of Building a Unicorn Startup
+```
 
-- 🚀 I love building software and electronics together.
-- ☕ Coffee + Coding = Productivity.
-- 🎯 Dreaming of Building a Billion-Dollar Startup.
-- 🌱 Always Learning New Technologies.
-- 🤖 AI + IoT Enthusiast.
+Creative and tech-savvy Full-Stack Developer & Embedded Systems enthusiast with strong foundations in IoT and real-world automation projects. I combine software engineering expertise with electronics innovation to design scalable, production-ready systems — from AI-powered web applications to embedded hardware integrations. I approach every build with a product engineering mindset: solving real problems, not just shipping code.
 
----
+**🎯 Open To:** Full-Stack Engineering Roles · AI/ML Engineering · IoT & Embedded Systems Projects · Freelance Product Builds · Open Source Collaboration
 
-<h3 align="center">
-✨ Building the Future Through Code & Electronics ✨
-</h3>
+<br/>
+
+## 🟣 Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,py,php,cpp,c,html,css&theme=dark"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,threejs,html,css,js&theme=dark"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,php,py,mongodb,firebase&theme=dark"/>
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman,linux&theme=dark"/>
+
+<br/>
+
+## 🟣 AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| AI-Powered Applications | ⭐⭐⭐⭐☆ | Integrating LLM APIs into full-stack products for real-world use cases |
+| IoT + AI Integration | ⭐⭐⭐⭐☆ | Sensor-driven automation combined with intelligent decision layers |
+| Backend for AI Systems | ⭐⭐⭐☆☆ | Building scalable APIs to serve AI/ML-driven features |
+| Embedded AI | ⭐⭐⭐☆☆ | Applying AI concepts within embedded C / IoT device contexts |
+
+</div>
+
+<br/>
+
+## 🟣 Featured Projects
+
+<details>
+<summary><b>🌾 AI-Powered Crop Disease Detection Platform</b></summary>
+<br/>
+
+Full-stack AgriTech platform enabling farmers to detect crop diseases via AI image analysis, with a multilingual voice assistant supporting English, Hindi, and Bhojpuri.
+
+| Aspect | Detail |
+|---|---|
+| Stack | React, Tailwind CSS, Node.js, MongoDB, AI API Integration |
+| Scale | Regional farmer-facing deployment |
+| Performance | Real-time image analysis with low-latency response |
+| Security | Secure API key handling, data validation on all endpoints |
+| Impact | Enables early crop disease detection for farmers in Bihar |
+| Repository | *Private* |
+
+</details>
+
+<details>
+<summary><b>🏢 Enterprise SaaS Admin Panel</b></summary>
+<br/>
+
+Large-scale enterprise admin dashboard built with a modern React stack, architected for 25+ modular admin panels covering analytics, user management, and operations tooling.
+
+| Aspect | Detail |
+|---|---|
+| Stack | React, Vite, Redux Toolkit, React Query, TanStack Table, Framer Motion, Tailwind CSS |
+| Scale | 25+ enterprise modules |
+| Performance | Optimized rendering with virtualized tables and query caching |
+| Security | Role-based access control architecture |
+| Impact | Foundation for scalable enterprise SaaS product suite |
+| Repository | *Private* |
+
+</details>
+
+<details>
+<summary><b>🎬 Cinematic Content & Voice Production Pipeline</b></summary>
+<br/>
+
+Multilingual scriptwriting and production workflow combining narrative design with technical production specifications for short films and travel content.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Content tooling, AI-assisted scriptwriting workflows |
+| Scale | Multiple full-length screenplay productions |
+| Performance | N/A |
+| Security | N/A |
+| Impact | Cinematic storytelling with production-ready shot specifications |
+| Repository | *Private* |
+
+</details>
+
+<br/>
+
+## 🟣 Experience
+
+**Full-Stack Developer & IoT Solutions Builder** — Independent / Freelance
+`2023 — Present`
+
+Designing and building full-stack web applications and embedded IoT systems, bridging software and electronics engineering to deliver end-to-end automation solutions.
+
+- Built AI-integrated web platforms with real-time data processing
+- Designed embedded C solutions for IoT hardware automation
+- Developed scalable backend systems using Node.js, Python, and PHP
+- Delivered client-facing dashboards, admin panels, and analytics reports
+
+`React` `Node.js` `Python` `PHP` `Embedded C` `MongoDB` `AWS` `Firebase`
+
+<br/>
+
+## 🟣 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| Diploma in Electronics Engineering | Pursuing 2023 – 2026, Bihar |
+| Independent Product Builder | Multiple full-stack & IoT projects delivered |
+| Multilingual AI Integration | Built voice assistant supporting 3 languages |
+
+</div>
+
+<br/>
+
+## 🟣 Certifications
+
+**AWS**
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
+
+**Oracle**
+
+<img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+
+**NPTEL**
+
+<img src="https://img.shields.io/badge/NPTEL-Certified-6A11CB?style=flat-square"/>
+
+**Cisco**
+
+<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+
+<br/>
+
+## 🟣 Coding Profiles
+
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+## 🟣 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ankitdev768&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=B388FF&icon_color=8E2DE2&text_color=E0AAFF" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitdev768&theme=tokyonight&hide_border=true&background=0F0C29&stroke=8E2DE2&ring=B388FF&fire=B388FF&currStreakLabel=E0AAFF" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitdev768&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=B388FF&text_color=E0AAFF" width="48%"/>
+
+</div>
+
+<br/>
+
+## 🟣 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ankitdev768&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10"/>
+
+</div>
+
+<br/>
+
+## 🟣 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitdev768&theme=react-dark&bg_color=0F0C29&color=E0AAFF&line=8E2DE2&point=B388FF&hide_border=true"/>
+
+</div>
+
+<br/>
+
+## 🟣 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ankitdev768/Ankitdev768/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<br/>
+
+## 🟣 Current Focus
+
+```yaml
+Learning:
+  - Advanced Backend Architecture
+  - AI/ML System Design
+  - Cloud Infrastructure (AWS)
+
+Building:
+  - Enterprise SaaS Admin Panel (25+ Modules)
+  - AI-Powered IoT Automation Systems
+
+Exploring:
+  - Three.js for Immersive Web Experiences
+  - Embedded AI on IoT Devices
+
+Open To:
+  - Full-Stack Engineering Roles
+  - AI/ML Collaboration
+  - Freelance & Startup Projects
+```
+
+<br/>
+
+## 🟣 Connect With Me
+
+<div align="center">
+
+<a href="mailto:ak1522667@gmail.com"><img src="https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ankit-kumar-569a76368/"><img src="https://img.shields.io/badge/LinkedIn-6A11CB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Ankitdev768"><img src="https://img.shields.io/badge/GitHub-2E1A47?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://ankitportfolio.in/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"Engineering solutions at the intersection of software and hardware — one build at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
+
+</div>
