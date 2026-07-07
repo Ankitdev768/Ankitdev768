@@ -7,14 +7,7 @@ width="100%" />
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Backend+Engineer;AI+%7C+IoT+Developer;Building+Products+That+Solve+Real+Problems" />
 </a>
-
 <br/>
-
-<img src="https://img.shields.io/badge/Diploma-Electronics%20Engineering-6A11CB?style=flat-square&labelColor=0F0C29"/>
-<img src="https://img.shields.io/badge/2023--2026-Batch-8E2DE2?style=flat-square&labelColor=0F0C29"/>
-<img src="https://img.shields.io/badge/Location-Patna%2C%20Bihar-B388FF?style=flat-square&labelColor=0F0C29"/>
-
-<br/><br/>
 
 <a href="https://ankitportfolio.in/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ankit-kumar-569a76368/"><img src="https://img.shields.io/badge/LinkedIn-6A11CB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
