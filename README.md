@@ -96,33 +96,20 @@ Designing and building full-stack web applications and embedded IoT systems, bri
 
 <br/>
 
-## 🏆 Achievements
+## 🟣 Achievements
 
-> 🥇 **1st Prize – National Science Day Model Presentation**  
-> **ISRO × BIT Patna**  
-> Awarded **First Prize** for presenting an innovative scientific model.
+<div align="center">
 
----
+| 🏅 Recognition | 📖 Details |
+| :--- | :--- |
+| 🥇 **1st Prize – National Science Day Model Presentation** | **ISRO × BIT Patna** — Awarded **First Prize** for presenting an innovative scientific model showcasing engineering excellence. |
+| 💡 **Finalist – Smart India Hackathon 2024** | Selected as an **Internal Round Finalist** in India's largest innovation and problem-solving competition. |
+| 🚀 **Finalist – TECHNEX'25 Hackathon** | **IIT BHU** — Reached the finals at one of India's biggest technical festivals with an innovative solution. |
+| ⚡ **Finalist – IIT Guwahati Hackathon** | Qualified as a finalist by developing and presenting a real-world technology solution. |
+| 🌟 **Startup Recognition** | Officially recognized by **Startup Bihar** for innovation, entrepreneurship, and product development. |
 
-> 💡 **Smart India Hackathon 2024 – Finalist**  
-> Selected as an **Internal Round Finalist** in India's largest innovation competition.
-
----
-
-> 🚀 **TECHNEX'25 Hackathon – Finalist**  
-> **IIT BHU**  
-> Reached the finals with an innovative technology solution.
-
----
-
-> ⚡ **IIT Guwahati Hackathon – Finalist**  
-> Qualified as a finalist by showcasing a real-world engineering solution.
-
----
-
-> 🌟 **Startup Bihar Recognition**  
-> Officially recognized for innovation, entrepreneurship, and startup excellence.
-
+</div>
+<br/>
 
 ## 🟣 Certifications
 
